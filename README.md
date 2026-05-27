@@ -36,7 +36,7 @@ install.packages(c("caret", "corrplot", "dplyr", "fastshap", "ggdist", "ggplot2"
 # Ejecución
 1. Descargar la base de datos: healthcare-dataset-stroke-data.xlsx .
 2. Abrir R/RStudio e importar los datos descargados y guardados previamente.
-3. Ejecutar el código TFG.
+3. Ejecutar el código TFG mediante: Código R.
 
 # Notas
 Inicialmente la base de datos contaba con valores faltantes por lo que es posible que al inicio de la ejecución aparezca un Warning avisando de ello.
